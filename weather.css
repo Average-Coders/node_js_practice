@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.background-image {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    min-height: 100vh;
+    background-image: url("weather_background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
